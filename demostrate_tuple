@@ -1,0 +1,3 @@
+mytup = ("scor", "volvo", "bmw" , "tra")
+
+print(mytup[0])
